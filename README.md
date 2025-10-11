@@ -20,4 +20,4 @@ This Python script automates cleaning of Excel files in bulk.
 ## Usage
 
 ```bash
-python clean_excel.py
+python Excel_Batch_Cleaner.py
